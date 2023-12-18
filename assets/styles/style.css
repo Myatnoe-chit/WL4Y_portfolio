@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,700;1,400&family=Roboto+Mono:wght@400;700&display=swap');
 
 :root {
-  --primary-color: #048A81;
-  --secondary-color: #52FFB8;
-  --accent-color: #F78154;
+  --primary-color: #3a7ca5;
+  --secondary-color: #81c3d7;
+  --accent-color: #f8961e;
   --white: #eef3ee;
   --black: #37393A;
   --title-font: 'Nunito', sans-serif;
@@ -284,7 +284,7 @@ a[href^="mailto:"]:hover {
 
 .get-in-touch,
 footer {
-  background-color: var(--black);
+  background-color: #003559;
 }
 
 .get-in-touch .container {
